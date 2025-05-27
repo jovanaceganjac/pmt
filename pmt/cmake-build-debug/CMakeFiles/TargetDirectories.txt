@@ -1,0 +1,3 @@
+C:/Users/Home/OneDrive/Desktop/DZ_22_423_2023_Jovana_Ceganjac/cmake-build-debug/CMakeFiles/DZ_22_423_2023_Jovana_Ceganjac.dir
+C:/Users/Home/OneDrive/Desktop/DZ_22_423_2023_Jovana_Ceganjac/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/OneDrive/Desktop/DZ_22_423_2023_Jovana_Ceganjac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
