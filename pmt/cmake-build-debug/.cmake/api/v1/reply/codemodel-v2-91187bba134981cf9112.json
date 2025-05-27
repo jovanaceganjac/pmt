@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DZ_22_423_2023_Jovana_Ceganjac",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DZ_22_423_2023_Jovana_Ceganjac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DZ_22_423_2023_Jovana_Ceganjac-Debug-f0a35f4b5e5b8e183d13.json",
+					"name" : "DZ_22_423_2023_Jovana_Ceganjac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Home/OneDrive/Desktop/DZ_22_423_2023_Jovana_Ceganjac/cmake-build-debug",
+		"source" : "C:/Users/Home/OneDrive/Desktop/DZ_22_423_2023_Jovana_Ceganjac"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
